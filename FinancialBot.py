@@ -1,5 +1,3 @@
-# !pip install pytelegrambotapi
-# !pip install khayyam
 import telebot
 import requests
 from requests import Request, Session
