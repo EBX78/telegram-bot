@@ -13,4 +13,5 @@ This command will send you the link of two popular sites
 /donate
 Donate
 
-* you just need a token and api key from Coinmarketcap
+* you just need a token from botfather (telegram bot)
+* and api key from Coinmarketcap
