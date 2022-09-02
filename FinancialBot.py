@@ -11,7 +11,7 @@ S = '----------------------------------------'
 bot = telebot.TeleBot('your-bot-token')
 
 url = "https://pro-api.coinmarketcap.com/v2/cryptocurrency/quotes/latest"
-headers = {'accepts':'application/json','X-CMC_PRO_API_KEY':'e9ac1dae-19ad-4471-85f3-a781e418ab96'}
+headers = {'accepts':'application/json','X-CMC_PRO_API_KEY':'your-api-key-from-coin-market-cap!'}
 session = Session()
 session.headers.update(headers)
 
